@@ -1,0 +1,16 @@
+[project]
+name = "projeto-aula20"
+version = "0.1.0"
+description = "Aula 20 jornada de dados, criando um projeto CRUD com Backend + Frontend"
+authors = [
+    {name = "Sergio Semprebom",email = "sergiosemprebom@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
